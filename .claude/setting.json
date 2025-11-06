@@ -1,0 +1,9 @@
+{
+    "model": "claude-haiku-4-5",
+    "model_fallback": ["claude-sonnet-4-5"],
+    "model_aliases": {
+        "default": "claude-haiku-4-5",
+        "system-arch": "claude-sonnet-4-5"
+    }
+
+}
