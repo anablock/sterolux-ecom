@@ -3,7 +3,19 @@
     "model_fallback": ["claude-sonnet-4-5"],
     "model_aliases": {
         "default": "claude-haiku-4-5",
-        "system-arch": "claude-sonnet-4-5"
+        "system-arch": "claude-sonnet-4-5",
+        "checkout-logic": "claude-sonnet-4-5",
+        "payment-integration": "claude-sonnet-4-5",
+        "shipping-calculation": "claude-sonnet-4-5",
+        "form-validation": "claude-sonnet-4-5",
+        "state-management": "claude-sonnet-4-5",
+        "complex-refactoring": "claude-sonnet-4-5",
+        "ui-styling": "claude-haiku-4-5",
+        "simple-bug-fix": "claude-haiku-4-5",
+        "documentation": "claude-haiku-4-5",
+        "configuration": "claude-haiku-4-5",
+        "utility-function": "claude-haiku-4-5",
+        "component-refactor": "claude-haiku-4-5",
+        "linting": "claude-haiku-4-5"
     }
-
 }
